@@ -140,7 +140,7 @@ class SignUpScreen extends StatelessWidget {
                     style: TextStyle(color: Colors.blueAccent),
                   ),
                 ),
-                Text("درخال حاضر اکانتی داری ؟"),
+                Text("درحال حاضر اکانتی داری ؟"),
               ],
             )
           ],
